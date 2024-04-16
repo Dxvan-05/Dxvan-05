@@ -24,7 +24,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 ---
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,figma,tailwind,git" />
