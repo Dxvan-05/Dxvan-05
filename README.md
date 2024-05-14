@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Dxvan-05&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Dxvan-05 Profile Views" /> </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=6000&lines=Hello+There!+👋+I'm+Devan+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=6000&lines=Hello+There!+👋+I'm+Devan;Jack+of+all+trades,+master+of+none+🃏"" />
 </h3>
 
 <div align="center">
