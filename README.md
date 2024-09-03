@@ -19,7 +19,7 @@
 </div>
 
 - 🔭 I'm a Linux Enthusiast. [Arch Linux](https://archlinux.org/) + [Hyprland](https://hyprland.org/)
-- 🌱 Currently learning React.js
+- 🌱 Currently learning React Native
 - 💬 Ask me about Frontend Web Development
 <!-- - ⚡ Fun fact: ... -->
 
