@@ -27,7 +27,7 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools I've used ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vscode,github,figma,tailwind,bash,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vscode,github,figma,tailwind,bash,git,docker,mysql" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,npm,webpack,vite,kotlin,androidstudio" /><br>
 </div>
 
